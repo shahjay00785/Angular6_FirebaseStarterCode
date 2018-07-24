@@ -5,12 +5,12 @@
 export const environment = {
   production: false,
   firbase : {
-    apiKey: "AIzaSyC_0HzxZaaEO_ZPi-YbrfdvofNEp2boplU",
-    authDomain: "cobalt-poet-203007.firebaseapp.com",
-    databaseURL: "https://cobalt-poet-203007.firebaseio.com",
-    projectId: "cobalt-poet-203007",
-    storageBucket: "cobalt-poet-203007.appspot.com",
-    messagingSenderId: "813393429943"
+    apiKey: "YOUR_API_KEY",
+       authDomain: "YOUR_AUTH_DOMAIN",
+       databaseURL: "YOUR_DATABASE_URL",
+       projectId: "YOUR_PROJECT_ID",
+       storageBucket: "YOUR_STORAGE_BUCKET",
+       messagingSenderId: "YOUR_SENDER_ID"
   }
 };
 
