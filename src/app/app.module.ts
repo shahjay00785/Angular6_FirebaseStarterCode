@@ -19,6 +19,8 @@ import { HeaderComponent } from './header/header.component';
     BrowserModule,
     AngularFireModule.initializeApp(environment.firbase),
     NgbModule.forRoot(),
+    AngularFireAuthModule,
+    AngularFireDatabaseModule,
     RouterModule.forRoot([
       {
         path: '',
